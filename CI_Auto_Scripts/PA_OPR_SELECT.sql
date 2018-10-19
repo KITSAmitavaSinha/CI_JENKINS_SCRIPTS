@@ -1,0 +1,1 @@
+select * from pa_opr;
